@@ -1,0 +1,22 @@
+Diabetes mellitus is a disorder that is marked by elevated blood glucose (commonly referred to as blood sugar). A large portion of the food that we eat is converted by the body into glucose. The blood delivers glucose throughout the body, but the hormone insulin is needed in order for it to be transported into most cells. Insulin comes from the pancreas. If the pancreas does not make sufficient insulin or cells are resistant to its activity of promoting glucose uptake, the blood glucose level becomes elevated.
+
+Type I diabetes represents approximately 5-10% of diabetic patients. It usually has a rapid onset and most frequently manifest in children and adolescents. Because the body cannot use dietary glucose, the level in the blood is elevated and excess glucose is lost in the urine, causing weakness, thirst and hunger. The treatment for type I diabetes is insulin replacement.
+
+Type II diabetes is found in some 120 million adults, who are able to produce insulin but the liver and body cells are resistant to its actions. Some type II diabetics can be effectively treated with diet alone, but many require oral medications. Historically, this has been thought of as maturity onset diabetes because it tends to occur after age 50, but there has been a dramatic increase in the number of adolescents with the disease. This is thought to be due to increased obesity and decreased physical activity in this age group.
+
+The major complication of diabetes is damage to the heart and blood vessels, which can cause heart attacks, strokes, and poor circulation. The effects on blood vessels also increase the risk of developing high blood pressure (hypertension).
+
+Diabetics have an increased risk of eye disease. Damage to the retina associated with diabetes is the leading cause of blindness in adults under age 65 in the US.
+
+When blood glucose is high, nerve cells swell and scar. The disease associated with damage to the nerves outside of the brain and spinal cord is referred to as peripheral neuropathy. The most common type of neuropathy in diabetics involves impairment of sensory nerves. Impaired nerve signals to the brain about sensations such as the detection of heat or pain may lead to burns or undetected cuts that can become infected. If untreated, infected foot and leg ulcers can spread to the bone and may require amputation. Burning, pain or tingling sensations in the hands, legs and feet are also common.
+
+Questions:
+Insulin is used to -------.__break down glucose__change food into glucose__transport glucose into cells__make glucose (B)
+Insulin is made by this organ -------.__liver__brain__pancreas__heart (C)
+When blood sugar levels are elevated, glucose is lost through the -------.__urine__blood__pancreas__liver (A)
+The treatment for type I diabetes is -------.__controlling diet__drinking lots of water__increased exercise__insulin replacement (D)
+The treatment for type II diabetes is -------.__controlling diet__drinking lots of water__increased exercise__insulin replacement (A)
+Type II diabetes is increasing in adolescents because of -------.__increased obesity__decreased physical activity__both of these__none of these (C)
+The major complication of diabetes is -------.__damage to the eyes__nerve damage__damage to the heart and blood vessels__damage to the kidneys (C)
+A disease damaging nerves outside the brain and spinal cord -------.__diabetes__hypertension__stroke__neuropathy (D)
+A diabetic may be forced to have an amputation if -------.__infection begins__hypertension begins__poor circulation develops__infection spreads to the bone (D)

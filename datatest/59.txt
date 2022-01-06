@@ -1,0 +1,22 @@
+From: Gail Rogers <grogers@scriptors.com>
+To: John Harlow <jharlow@scriptors.com> 
+Date: June 21
+Subject: Problems with the network
+Dear Mr.Harlow,
+I don't know if you've received other complaints already this morning, but at the moment I'm being denied access to the company's network. I've never experienced something like this before. My co-worker, Jim Stevens, said he was having the same problem. When I enter my employee ID and password, I receive this message: Employee ID invalid. I’m positive that I'm entering the correct ID, so I don't know why I can't access the network. I tried to contact the Computer Technician, but he hasn't replied to my emails. I was hoping that you would be able to help me, since you're the Technology Supervisor. I would really appreciate any assistance you can provide at this time.
+Thanks
+From: John Harlow <jharlow@scriptors.com>
+To: Gail Rogers <grogers@scriptors.com>
+Date: June 21
+Subject: Re: Problems with the network
+Hi Gail,
+I'm sorry that I did not reply sooner, but one of the computers on the fifth floor unexpectedly shut down and I had to investigate the cause. Our Computer Technician, Thomas Benson, has the flu and will not be in the office for the rest of the week. I have heard from many other employees today, and they all mentioned the same error message. I think the problem might be that we updated our computer security system, but I can't be certain until I do a little more research. I'm not sure why, but we seem to be having a lot of problems with our computers lately. This is the tenth complaint I've received this morning. I have scheduled a meeting with the Administrative Supervisor, Philip Downss at 3 p.m. He should be able to tell me how to fix the problem. Usually, the kind of error message you describe appears when there is something wrong with the security settings. In the meantime, I recommend that you save all of your current files on a hard disk because there is a possibility that we will have to erase your hard drive. If you have any questions before 9 p.m., you can rearh me at etr. # 5498.
+john Harlow
+Technology Supervisor
+
+Questions:
+What is TRUE about Gail Rogers' computer problem?__It is not the first time it has happened to her.__Other employees have not experienced the problem.__It occurs when she saves a file.__The source of the problem is not known. (D)
+Who did Gail Rogers try to oontact first?__John Harlow__Thomas Benson__Jim Stevens__Philip Downs (B)
+In the first e-mail, the word "denied” in line 2 is closest in meaning to?__prevented__provoked__proven__promoted (A)
+How does John Harlow plan to resolve the problem?__By replacing some of the office computers__By repairing the electrical wires__By sending a computer technician__By speaking to a person from another deparment (D)
+What is Gail Rogers advised to do?__Turn off her computer immediately__Save her files to a disk__Contact her department's supervisor__Consult the instruction manual (B)
