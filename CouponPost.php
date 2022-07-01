@@ -75,8 +75,8 @@ class CouponPost extends \Magento\Checkout\Controller\Cart implements HttpPostAc
         $cartQuote = $this->cart->getQuote();
         $oldCouponCode = $cartQuote->getCouponCode();
 
-        $codeLength = strlen($couponCode ?? "");
-        if (!$codeLength && !strlen($oldCouponCode ?? "")) {
+        $codeLength = strlen($couponCode);
+        if (!$codeLength && !strlen($oldCouponCode)) {
             return $this->_goBack();
         }
 
